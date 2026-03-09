@@ -1,2 +1,4 @@
+learning commands
+learning linux commands for devops
 my first devops git project 
 learning devops step by step
